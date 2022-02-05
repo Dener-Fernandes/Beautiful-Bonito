@@ -8,9 +8,28 @@
 
 :root {
   --blue-light: #00BFFF;
+  --gray-light: #DCDCDC;
+}
+
+html {
+  @media(max-width: 1080px) {
+    font-size: 93.75%;
+  }
+
+  @media(max-width: 720px) {
+    font-size: 87.5%;
+  }
 }
 
 body, input, textarea, button {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
+}
+
+a {
+  color: #000000;
+}
+
+button {
+  cursor: pointer;
 }
