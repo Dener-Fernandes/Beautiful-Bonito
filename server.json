@@ -1,0 +1,10 @@
+{
+  "touristAttractions": [
+    {
+      "id": 0,
+      "name": "Gruta da Lagoa Azul",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mercadoeeventos.com.br%2F_destaque_%2Fslideshow%2Fgoverno-federal-autorizou-a-cessao-da-gruta-do-lago-azul-para-bonito%2F&psig=AOvVaw2dr0Z2AsQd3HEzd6RPTOk_&ust=1644182503887000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjiq6a_6fUCFQAAAAAdAAAAABAD",
+      "description": "Monumento Natural da Gruta do Lago Azul é um monumento natural no município de Bonito, Mato Grosso do Sul, Brasil."
+    }
+  ]
+}
