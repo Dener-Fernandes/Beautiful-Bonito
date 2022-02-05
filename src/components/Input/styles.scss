@@ -8,3 +8,9 @@ input {
   border: 2px solid var(--gray-light);
   border-radius: 0.5rem;
 }
+
+@media(max-width: 720px) {
+  input {
+    font-size: 1.3rem;
+  }
+}

@@ -16,7 +16,7 @@ export function SignInPage() {
           <label htmlFor="senha">Senha</label>
           <Input type="password" placeholder="Digite sua senha" />
           <Button type="submit" textButton="Entrar" />
-          <p>Ainda não é cadastrado? <a href="/SignUp">Cadastre-se agora</a></p>
+          <p>Ainda não possui conta <a href="/SignUp">Cadastre-se</a></p>
         </form>
       </div>
       <div className="cardImage">
